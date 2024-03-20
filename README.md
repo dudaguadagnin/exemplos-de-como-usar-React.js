@@ -2,7 +2,6 @@
 
 
 ## Como funciona o atomic desing
-Podemos ter em mente o atomica desing 
 
 O Atomic Design é uma metodologia para criar sistemas de design de forma mais sistemática e organizada. Ele foi desenvolvido por Brad Frost e é baseado em uma analogia com o mundo da química, onde átomos se combinam para formar moléculas, que por sua vez se combinam para formar organismos mais complexos.
 
