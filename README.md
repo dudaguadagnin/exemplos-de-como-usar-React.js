@@ -1,6 +1,25 @@
 # Pagina de exemplos e modos de uso em react
 
 
+## Como funciona o atomic desing
+Podemos ter em mente o atomica desing 
+
+O Atomic Design é uma metodologia para criar sistemas de design de forma mais sistemática e organizada. Ele foi desenvolvido por Brad Frost e é baseado em uma analogia com o mundo da química, onde átomos se combinam para formar moléculas, que por sua vez se combinam para formar organismos mais complexos.
+
+Vamos quebrar em partes para explicar como funciona:
+
+### Conceitos Básicos:
+Átomos: (os menores componentes) Os átomos são os blocos de construção mais básicos, como botões, inputs, labels, cores, tipografias, etc. São elementos simples e independentes que não podem ser quebrados em partes menores dentro do sistema de design.
+
+Moléculas:(junçao de atomos, ou componentes um pouco mais complexos que as moleculas). Moléculas são a combinação de átomos. Por exemplo, um campo de formulário com um rótulo, input e botão seria uma molécula. Ou um botão com um ícone e um texto. As moléculas são componentes simples e reutilizáveis.
+
+Organismos: Organismos são a combinação de moléculas e/ou átomos que formam componentes mais complexos e funcionais. Por exemplo, um cabeçalho de página que inclui o logo (molécula), menu de navegação (molécula) e um campo de pesquisa (molécula).
+
+Templates: Templates são a combinação de organismos e podem ser vistos como wireframes em um nível mais alto. Eles mostram como os organismos serão colocados juntos em uma página ou tela.
+
+Páginas: Páginas são a instância final onde todo o design e funcionalidade se unem. É onde os templates são populados com conteúdo real e se tornam a interface que os usuários vão interagir.
+
+
 
 
 ## Getting Started with Create React App
